@@ -23,3 +23,9 @@ A visual keyboard that tracks typing patterns using color gradients.
 - Event listeners
 - HSL color math
 - Keyboard event handling
+
+## Demo  
+Live: https://akisha-dev.github.io/Keyboard-heatmap/
+
+![Keyboard Heatmap Screenshot](Screenshot.png)
+
